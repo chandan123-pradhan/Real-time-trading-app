@@ -1,0 +1,4 @@
+enum Timeframe {
+  oneMinute,
+  fiveMinute,
+}
