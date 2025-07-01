@@ -6,7 +6,7 @@ This Flutter project simulates a real-time OHLC (Open, High, Low, Close) candles
 ## 🎩 Demo Video
 
 Watch the demo video here:  
-[![Watch Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+[![Watch Demo](https://drive.google.com/file/d/1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2/view?usp=sharing)
 
 ---
 
@@ -19,9 +19,9 @@ Click below to download the APK:
 
 ## 🗀️ Screenshots
 
-| Real-Time Candlestick Chart | Timeframe Toggle | Dragging Line with Tooltip |
+| 1 Min Timeframe chart | 5 Min Timeframe chart |
 |-----------------------------|------------------|-----------------------------|
-| ![Chart](https://drive.google.com/uc?export=view&id=1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2) | ![Screenshot 1](https://drive.google.com/uc?export=view&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/uc?export=view&id=1uXchnCSwM395QywhIudDanzQvoHzcJUz) |
+| ![Screenshot 1](https://drive.google.com/uc?export=view&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/uc?export=view&id=1uXchnCSwM395QywhIudDanzQvoHzcJUz) |
 
 ---
 
