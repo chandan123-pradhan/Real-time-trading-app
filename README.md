@@ -11,7 +11,7 @@ Click below to download the APK:
 
 | Real-Time Candlestick Chart                    | Timeframe Toggle                                 | Dragging Line with Tooltip                         |
 | ---------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
-| ![Complete Demo Link](https://drive.google.com/file/d/1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2/view?usp=sharing) | ![Screenshot 1](https://drive.google.com/file/d/1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18/view?usp=sharing) | ![Screenshot 2](https://drive.google.com/file/d/1uXchnCSwM395QywhIudDanzQvoHzcJUz/view?usp=sharing) |
+| ![Complete Demo Link](https://drive.google.com/file/d/1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2/view?usp=sharing) | ![Screenshot 1](https://drive.google.com/uc?export=view&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/file/d/1uXchnCSwM395QywhIudDanzQvoHzcJUz/view?usp=sharing) |
 
 ---
 
