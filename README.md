@@ -15,7 +15,7 @@ Watch the demo video here:
 
 Click below to download the APK:
 
-[Download APK](https://your-apk-host.com/app-release.apk)
+[Download APK](https://drive.google.com/file/d/1-pAd5VbuWloV9LxK9_KBvvb2BCp_WYL3/view?usp=sharing)
 
 ---
 
