@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 import '../../../domain/entities/candle.dart';
-import 'dart:math';
 
 class CandlePainter extends CustomPainter {
   final List<Candle> candles;
@@ -126,7 +125,7 @@ if (draggedPosition != null) {
   // Tooltip background
   canvas.drawRRect(tooltipRect, tooltipPaint);
 
-  // Tooltip border (optional)
+  // Tooltip border
   canvas.drawRRect(
     tooltipRect,
     Paint()
