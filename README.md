@@ -2,16 +2,26 @@
 
 This Flutter project simulates a real-time OHLC (Open, High, Low, Close) candlestick chart using mock tick data. It supports timeframes (1-minute and 5-minute), interactive dragging for price inspection, and smooth updates every second.
 
-🗂️ APK Download
 
-Click below to download the APK:
-[Download APK](https://drive.google.com/file/d/1-pAd5VbuWloV9LxK9_KBvvb2BCp_WYL3/view?usp=sharing)
+## 🎩 Demo Video
 
-## 🖼️ Screenshots
+Watch the demo video here:  
+[![Watch Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
 
-| Real-Time Candlestick Chart                    | Timeframe Toggle                                 | Dragging Line with Tooltip                         |
-| ---------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
-| ![Complete Demo Link](https://drive.google.com/file/d/1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2/view?usp=sharing) | ![Screenshot 1](https://drive.google.com/uc?export=view&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/file/d/1uXchnCSwM395QywhIudDanzQvoHzcJUz/view?usp=sharing) |
+---
+
+## 🗂️ APK Download
+
+Click below to download the APK:  
+[Download APK](https://your-apk-host.com/app-release.apk)
+
+---
+
+## 🗀️ Screenshots
+
+| Real-Time Candlestick Chart | Timeframe Toggle | Dragging Line with Tooltip |
+|-----------------------------|------------------|-----------------------------|
+| ![Chart](https://drive.google.com/uc?export=view&id=1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2) | ![Screenshot 1](https://drive.google.com/uc?export=view&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/uc?export=view&id=1uXchnCSwM395QywhIudDanzQvoHzcJUz) |
 
 ---
 
