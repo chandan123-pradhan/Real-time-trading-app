@@ -97,8 +97,8 @@ lib/
 ## 📌 Getting Started
 
 ```bash
-git clone https://github.com/your-repo/real_time_trading_app.git
-cd real_time_trading_app
+git clone https://github.com/chandan123-pradhan/Real-time-trading-app.git
+cd Real-time-trading-app
 flutter pub get
 flutter run
 ```
