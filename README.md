@@ -2,26 +2,28 @@
 
 This Flutter project simulates a real-time OHLC (Open, High, Low, Close) candlestick chart using mock tick data. It supports timeframes (1-minute and 5-minute), interactive dragging for price inspection, and smooth updates every second.
 
+---
 
 ## 🎩 Demo Video
 
-Watch the demo video here:  
-[![Watch Demo](https://drive.google.com/file/d/1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2/view?usp=sharing)
+Watch the demo video here:
+[📺 Watch Demo on Google Drive](https://drive.google.com/file/d/1iGlIWlI4e_l0uuqZTtA54A-ITDAtUnE2/view?usp=sharing)
 
 ---
 
 ## 🗂️ APK Download
 
-Click below to download the APK:  
+Click below to download the APK:
+
 [Download APK](https://your-apk-host.com/app-release.apk)
 
 ---
 
 ## 🗀️ Screenshots
 
-| 1 Min Timeframe chart | 5 Min Timeframe chart |
-|-----------------------------|------------------|-----------------------------|
-| ![Screenshot 1](https://drive.google.com/uc?export=view&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/uc?export=view&id=1uXchnCSwM395QywhIudDanzQvoHzcJUz) |
+| 1 Min Timeframe Chart                                                                          | 5 Min Timeframe Chart                                                                          |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![Screenshot 1](https://drive.google.com/uc?export=view\&id=1u8_SEih11OeB1Zv3e-hIhYHCv8HYVD18) | ![Screenshot 2](https://drive.google.com/uc?export=view\&id=1uXchnCSwM395QywhIudDanzQvoHzcJUz) |
 
 ---
 
@@ -29,19 +31,20 @@ Click below to download the APK:
 
 * 📊 Real-time tick simulation every second
 * 📈 Aggregation into OHLC candles (1-min & 5-min timeframes)
-* 🕹️ Dragging line shows price tooltip with reset after 3 seconds
-* 🔁 Maintains only the last 30 candles
+* 🔹 Dragging line shows price tooltip with reset after 3 seconds
+* 🔀 Maintains only the last 30 candles
 * 💡 Optimized redraw using CustomPainter
-* 🧪 Unit tests for:
-     Candle creation
-     Drag-reset logic
-     New candle per minute
-     Tick updates
-     30-candle list limit
+* 🪪 Unit tests for:
+
+  * Candle creation
+  * Drag-reset logic
+  * New candle per minute
+  * Tick updates
+  * 30-candle list limit
 
 ---
 
-## 🧱 Tech Stack
+## 🩵 Tech Stack
 
 * Flutter
 * BLoC for state management
@@ -49,7 +52,7 @@ Click below to download the APK:
 
 ---
 
-## 🧪 Testing
+## 🪪 Testing
 
 ```bash
 flutter test test/ohlc_bloc_test.dart
